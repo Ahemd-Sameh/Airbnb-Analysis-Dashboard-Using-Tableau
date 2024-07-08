@@ -1,0 +1,50 @@
+Project Description:
+The Airbnb Price Analysis Dashboard is an interactive Tableau dashboard designed to provide insights into the pricing trends of Airbnb listings. 
+This dashboard visualizes key metrics such as average price per bedroom, price per zipcode, and revenue over time. 
+It helps stakeholders understand the distribution of prices based on location and the number of bedrooms, enabling 
+better pricing strategies and market analysis.   
+
+Steps Involved:
+Data Collection and Preparation:
+Data Source: Collected Airbnb listing data, including details such as the number of bedrooms, prices, zipcodes, and 
+revenue.
+Data Cleaning: Cleaned the data by removing duplicates, handling missing values, and ensuring consistency in data 
+formatting using Excel for initial preparation.
+
+Data Import to Tableau:
+Imported the cleaned dataset into Tableau for further analysis and visualization.
+Data Modeling:
+Created relationships between different tables in the dataset to enable accurate and efficient data analysis.
+Ensured the data model supports the necessary calculations and visualizations.
+
+Dashboard Design:
+Layout Planning: Designed the layout of the dashboard, ensuring a logical flow and easy navigation for users.
+Visual Elements: Added various visualizations to represent the Airbnb pricing data:
+Bar Chart: Average price per bedroom, showcasing the average price for listings with different numbers of bedrooms.
+Tree Map: Price per zipcode, displaying the geographic distribution of prices across different zipcodes.
+Bar Chart: Price by zipcode, highlighting the average price for each zipcode.
+Line Chart: Revenue for the year, showing the trend of revenue over time.
+Text Table: Distinct count of bedroom listings, indicating the number of listings for each bedroom count.
+
+Interactive Elements:
+Filters and Slicers: Implemented filters to allow users to filter data by year and zipcode, providing a customized view of the 
+data.
+Dynamic Charts: Ensured that charts and graphs update dynamically based on user selections from filters and slicers.
+
+Final Touches:
+Aesthetic Enhancements: Applied a consistent color scheme, fonts, and design elements to enhance the visual appeal of 
+the dashboard.
+Usability Testing: Conducted usability testing to ensure the dashboard is intuitive and user-friendly, making adjustments 
+based on feedback.
+
+Technical Details:
+Tools Used: Tableau for data visualization and dashboard creation.
+Data Cleaning: Utilized Excel for initial data cleaning and preparation.
+Design Considerations: Focused on creating an accessible and visually appealing interface, with a clear emphasis on ease 
+of use and readability.
+
+Conclusion:
+The Airbnb Price Analysis Dashboard is a valuable tool for understanding the pricing trends of Airbnb listings. It provides 
+actionable insights that can help hosts and property managers optimize their pricing strategies to maximize revenue. 
+This project demonstrates proficiency in data analysis, Tableau functionality, and dashboard design.
+
